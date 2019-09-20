@@ -8,5 +8,152 @@
   "profile": {
     "name": "typicode"
   }
-  "home": {"result":{"recordsTotal":10,"recordsFiltered":10,"categories":[{"id":"5c62e1e8df17864fd85dbf56","title":"Stress","sequence":1,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/862e543f69339ad343bc1f0cbd7f49571554370804491.png","description":"Rewire the mind, #chillvibes #winning"},{"id":"5c62e230df17864fd85dbf58","title":"Sleep","sequence":2,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/42d8ed579a3483002a8951f2067c97431554370831368.jpeg","description":"Fall asleep faster, recharge your mind and body"},{"id":"5c62e264df17864fd85dbf5a","title":"Balance & Inner Peace","sequence":3,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/166cd9cd208454044b7937fc552b78dd1554371723895.jpeg","description":"Deepen mindfulness for inspired solutions"},{"id":"5c62e2ccdf17864fd85dbf5d","title":"Focus & Productivity","sequence":4,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/f82447ceee38a17c4c6b68e62d46764c1554370886446.jpeg","description":"Improve performance and avoid roadblocks"},{"id":"5c62e31fdf17864fd85dbf5f","title":"Love & Relationships","sequence":5,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/c9996d885e6d71840169e8084f1cc8101554370913242.jpeg","description":"Open communication at home, work or play"},{"id":"5c62e597df17864fd85dbf60","title":"Health & Vitality","sequence":6,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/1198c0eb68c7291fa7d42c329e1e268c1554370938800.jpeg","description":"Increase your mind and body's potential"},{"id":"5c62e713df17864fd85dbf6d","title":"Fun & Happiness","sequence":7,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/56656d0495cce3c723b676e1d0d5b09e1554371375230.jpeg","description":"Boost hope, joy, and inspiration"},{"id":"5c62e76edf17864fd85dbf71","title":"Financial Wealth","sequence":8,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/7eb48972c2a340a518a05ca9ea16967f1554371628273.jpeg","description":"Fuel your potential for success"},{"id":"5c62e7cbdf17864fd85dbf75","title":"Anxiety & Depression","sequence":9,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/c0e74eca8321fee25ad204a70a801a301554371656566.png","description":"Soothe pain and develop mental resilience"},{"id":"5c62e822df17864fd85dbf77","title":"Kids & Pets","sequence":10,"image":"https://d2b3ivwk3ybv7x.cloudfront.net/541c72078d8e4cd1f1daf11a6dbba8991554371210399.jpeg","description":"Unleash inner bliss and build better habits"}],"moods":[{"title":"Angry ","_id":"5c62d7bddf17864fd85dbf3f","id":"5c62d7bddf17864fd85dbf3f"},{"title":"Anxious ","_id":"5c62d818df17864fd85dbf44","id":"5c62d818df17864fd85dbf44"},{"title":"Burdened","_id":"5c62d811df17864fd85dbf43","id":"5c62d811df17864fd85dbf43"},{"title":"Curious ","_id":"5c62d801df17864fd85dbf41","id":"5c62d801df17864fd85dbf41"},{"title":"Depressed ","_id":"5c62d81edf17864fd85dbf45","id":"5c62d81edf17864fd85dbf45"},{"title":"Distracted ","_id":"5c62d824df17864fd85dbf46","id":"5c62d824df17864fd85dbf46"},{"title":"Good","_id":"5c62d808df17864fd85dbf42","id":"5c62d808df17864fd85dbf42"},{"title":"Lazy ","_id":"5c62d7afdf17864fd85dbf3d","id":"5c62d7afdf17864fd85dbf3d"},{"title":"Sad ","_id":"5c62d7b7df17864fd85dbf3e","id":"5c62d7b7df17864fd85dbf3e"},{"title":"Sick ","_id":"5c62d7fadf17864fd85dbf40","id":"5c62d7fadf17864fd85dbf40"},{"title":"Stressed ","_id":"5c62d771df17864fd85dbf3b","id":"5c62d771df17864fd85dbf3b"},{"title":"Tired","_id":"5c62d782df17864fd85dbf3c","id":"5c62d782df17864fd85dbf3c"},{"title":"Unloved ","_id":"5c62d829df17864fd85dbf47","id":"5c62d829df17864fd85dbf47"}],"isMySubscriptionActive":true,"isQuickStartCompleted":false,"sosOfThe":null}}
+  "home": {
+  "result": {
+    "recordsTotal": 10,
+    "recordsFiltered": 10,
+    "categories": [
+      {
+        "id": "5c62e1e8df17864fd85dbf56",
+        "title": "Stress",
+        "sequence": 1,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/862e543f69339ad343bc1f0cbd7f49571554370804491.png",
+        "description": "Rewire the mind, #chillvibes #winning"
+      },
+      {
+        "id": "5c62e230df17864fd85dbf58",
+        "title": "Sleep",
+        "sequence": 2,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/42d8ed579a3483002a8951f2067c97431554370831368.jpeg",
+        "description": "Fall asleep faster, recharge your mind and body"
+      },
+      {
+        "id": "5c62e264df17864fd85dbf5a",
+        "title": "Balance & Inner Peace",
+        "sequence": 3,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/166cd9cd208454044b7937fc552b78dd1554371723895.jpeg",
+        "description": "Deepen mindfulness for inspired solutions"
+      },
+      {
+        "id": "5c62e2ccdf17864fd85dbf5d",
+        "title": "Focus & Productivity",
+        "sequence": 4,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/f82447ceee38a17c4c6b68e62d46764c1554370886446.jpeg",
+        "description": "Improve performance and avoid roadblocks"
+      },
+      {
+        "id": "5c62e31fdf17864fd85dbf5f",
+        "title": "Love & Relationships",
+        "sequence": 5,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/c9996d885e6d71840169e8084f1cc8101554370913242.jpeg",
+        "description": "Open communication at home, work or play"
+      },
+      {
+        "id": "5c62e597df17864fd85dbf60",
+        "title": "Health & Vitality",
+        "sequence": 6,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/1198c0eb68c7291fa7d42c329e1e268c1554370938800.jpeg",
+        "description": "Increase your mind and body's potential"
+      },
+      {
+        "id": "5c62e713df17864fd85dbf6d",
+        "title": "Fun & Happiness",
+        "sequence": 7,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/56656d0495cce3c723b676e1d0d5b09e1554371375230.jpeg",
+        "description": "Boost hope, joy, and inspiration"
+      },
+      {
+        "id": "5c62e76edf17864fd85dbf71",
+        "title": "Financial Wealth",
+        "sequence": 8,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/7eb48972c2a340a518a05ca9ea16967f1554371628273.jpeg",
+        "description": "Fuel your potential for success"
+      },
+      {
+        "id": "5c62e7cbdf17864fd85dbf75",
+        "title": "Anxiety & Depression",
+        "sequence": 9,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/c0e74eca8321fee25ad204a70a801a301554371656566.png",
+        "description": "Soothe pain and develop mental resilience"
+      },
+      {
+        "id": "5c62e822df17864fd85dbf77",
+        "title": "Kids & Pets",
+        "sequence": 10,
+        "image": "https://d2b3ivwk3ybv7x.cloudfront.net/541c72078d8e4cd1f1daf11a6dbba8991554371210399.jpeg",
+        "description": "Unleash inner bliss and build better habits"
+      }
+    ],
+    "moods": [
+      {
+        "title": "Angry ",
+        "_id": "5c62d7bddf17864fd85dbf3f",
+        "id": "5c62d7bddf17864fd85dbf3f"
+      },
+      {
+        "title": "Anxious ",
+        "_id": "5c62d818df17864fd85dbf44",
+        "id": "5c62d818df17864fd85dbf44"
+      },
+      {
+        "title": "Burdened",
+        "_id": "5c62d811df17864fd85dbf43",
+        "id": "5c62d811df17864fd85dbf43"
+      },
+      {
+        "title": "Curious ",
+        "_id": "5c62d801df17864fd85dbf41",
+        "id": "5c62d801df17864fd85dbf41"
+      },
+      {
+        "title": "Depressed ",
+        "_id": "5c62d81edf17864fd85dbf45",
+        "id": "5c62d81edf17864fd85dbf45"
+      },
+      {
+        "title": "Distracted ",
+        "_id": "5c62d824df17864fd85dbf46",
+        "id": "5c62d824df17864fd85dbf46"
+      },
+      {
+        "title": "Good",
+        "_id": "5c62d808df17864fd85dbf42",
+        "id": "5c62d808df17864fd85dbf42"
+      },
+      {
+        "title": "Lazy ",
+        "_id": "5c62d7afdf17864fd85dbf3d",
+        "id": "5c62d7afdf17864fd85dbf3d"
+      },
+      {
+        "title": "Sad ",
+        "_id": "5c62d7b7df17864fd85dbf3e",
+        "id": "5c62d7b7df17864fd85dbf3e"
+      },
+      {
+        "title": "Sick ",
+        "_id": "5c62d7fadf17864fd85dbf40",
+        "id": "5c62d7fadf17864fd85dbf40"
+      },
+      {
+        "title": "Stressed ",
+        "_id": "5c62d771df17864fd85dbf3b",
+        "id": "5c62d771df17864fd85dbf3b"
+      },
+      {
+        "title": "Tired",
+        "_id": "5c62d782df17864fd85dbf3c",
+        "id": "5c62d782df17864fd85dbf3c"
+      },
+      {
+        "title": "Unloved ",
+        "_id": "5c62d829df17864fd85dbf47",
+        "id": "5c62d829df17864fd85dbf47"
+      }
+    ],
+    "isMySubscriptionActive": true,
+    "isQuickStartCompleted": false,
+    "sosOfThe": null
+  }
+}
 }
